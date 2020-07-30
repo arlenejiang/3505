@@ -7,7 +7,7 @@ layout: default
   {% if posts_count > 0 %}
     <div class="posts">
       {% for post in paginator.posts %}
-        <div class="post py3">r
+        <div class="post py3">
           <a href="{{ post.url | relative_url }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
           {{ post.content }}
         </div>
