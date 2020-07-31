@@ -8,7 +8,7 @@ url:         "github.com/arlenejiang"
 date_format: "%b %-d, %Y"
 header_pages:
  - contact.html
- - portfolio.html
+ - 2020-07-30-assignments.html
 
 # Build settings
 markdown: kramdown
