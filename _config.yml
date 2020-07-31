@@ -1,5 +1,5 @@
 # Site settings
-title:       3505
+title:       Arlene Jiang
 email:       arlenejiang@dal.ca
 author:      Arlene Jiang
 description: "My coding portfolio showcasing my neural data science coursework"
@@ -7,7 +7,6 @@ baseurl:     "/3505"
 url:         "github.com/arlenejiang"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
  - contact.html
 
 # Build settings
@@ -120,7 +119,7 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     4
+paginate:     30
 sass:
   style: compressed
 plugins:
