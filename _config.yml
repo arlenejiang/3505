@@ -52,7 +52,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: arlenejiang
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
@@ -107,13 +107,13 @@ text:
     email:    'Email Address'
     content:  'What would you like to say?'
     subject:  'New submission!'
-    submit:   'Say Hello'
+    submit:   'Send'
     ajax:
       sending:  'sending..'
       sent:     'Message sent!'
       error:    'Error!'
   thanks: 'Thanks for contacting us. We will reply as soon as possible.'
-  og_locale: 'en_US'
+  og_locale: 'en_CA'
 
 # Build settings
 markdown:     kramdown
