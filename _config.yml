@@ -4,7 +4,7 @@ email:       arlenejiang@dal.ca
 author:      Arlene Jiang
 description: "My coding portfolio showcasing my neural data science coursework"
 baseurl:     "/3505"
-url:         "github.com/arlenejiang"
+url:         "http://github-arlenejiang.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - contact.html
