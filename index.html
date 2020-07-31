@@ -9,13 +9,13 @@ layout: default
     <div class="posts">
       {% for post in paginator.posts %}
         <div class="post py3">
-          <a href="{{ post.url | relative_url }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
+          <a href="{{ post.url | relative_url }}" class="post-link"><h4 class="h1 post-title">{{ post.title }}</h4></a>
           {{ post.content }}
         </div>
       {% endfor %}
     </div>
   
-  <h3 class="h1 post-title">{{ Demos }}</h3>
+  <h4 class="h1 post-title">{{ Demos }}</h4>
   
   <h6> Keep Track of Your XP </h6>
   <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/7693efb3-02fa-4602-84de-8b5f464ce868?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
