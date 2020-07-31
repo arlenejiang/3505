@@ -133,3 +133,9 @@ exclude:
   - README.md
   - screenshot.png
   - vendor
+  - 2014-06-08-pixyll-has-pagination.md
+  - 2014-06-09-so-what-is-jekyll.md
+  - 2014-06-10-see-pixyll-in-action.md
+  - 2014-06-11-welcome-to-pixyll.markdown
+  - 2015-07-11-announcing-pixyll-version-2.md
+  - 2019-01-26-guide-to-forking-pixyll.md
